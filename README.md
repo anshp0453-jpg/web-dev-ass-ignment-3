@@ -14,7 +14,7 @@
 <body>
     <header>
         <div class="container">
-            <h1>anish jha</h1>
+            <h1>ansh pandey</h1>
             <p class="tagline">Web Developer | Programmer | Designer</p>        
             <nav>
                 <a href="#about">About</a>
