@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>anish jha | Portfolio</title>
+    <title>ansh pandey | Portfolio</title>
     <link rel="icon" type="image/webp" href="anish.webp">
     
    
@@ -32,14 +32,14 @@
                 <p>Building modern web applications with MERN stack.</p>
             </div>
             <div class="hero-right">
-                <img src="anish.webp" class="illustration" alt="Illustration">
+                <img src="ansh.webp" class="illustration" alt="Illustration">
             </div>
         </div>
 
 
         <section id="about" class="container">
             <h2>About Me</h2>
-            <p>Hello! I'm Anish, a passionate web developer who loves building simple and useful websites. I enjoy learning new technologies and improving my skills.</p>
+            <p>Hello! I'm Ansh, a passionate web developer who loves building simple and useful websites. I enjoy learning new technologies and improving my skills.</p>
         </section>
 
         <section id="projects" class="container">
@@ -80,11 +80,11 @@
             <h2>Contact Me</h2>
             <p>Email: 
                 <img src="gmail_logo.webp" alt="Gmail logo" height="20">
-                <a href="mailto:jhaanish045@gmail.com">jhaanish045@gmail.com</a>
+                <a href="mailto:anshp045@gmail.com">anshp0453@gmail.com</a>
             </p>
             <p>LinkedIn: 
                 <img src="linkin.webp" alt="LinkedIn logo" height="20">
-                <a href="https://www.linkedin.com/in/jhaanish045" target="_blank">anish jha</a>
+                <a href="https://www.linkedin.com/in/" target="_blank">ansh pandey</a>
             </p>
             <p>GitHub: 
                 <img src="github.webp" alt="GitHub logo" height="20">
@@ -107,7 +107,7 @@
     </main>
 
     <footer>
-        <p>© 2025 anish jha | All Rights Reserved</p>
+        <p>© 2025 ansh pandey | All Rights Reserved</p>
     </footer>
 </body>
 </html># web-dev-ass-ignment-3
